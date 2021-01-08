@@ -12,3 +12,4 @@ Some thoughts for the future 🤔
 - Need to tweak the logic so it can work with any image. (transparent images cause issues.)
 - Ability to upload a new image.
 
+<img src="screenshot-anim.gif">
