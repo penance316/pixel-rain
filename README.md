@@ -4,6 +4,11 @@ A small demo javascript experiment which shows falling pixels with their speed m
 
 We split the image into coloured RGBA pixels and use these values to calculate a human percieved lightness value which is then used to adjust the speed of a travelling pixel.
 
+<img src="screenshot-anim.gif">
+
+# Getting started
+To run this just clone the project and open the index.html file.
+
 ## TODO
 
 Some thoughts for the future 🤔
@@ -12,4 +17,4 @@ Some thoughts for the future 🤔
 - Need to tweak the logic so it can work with any image. (transparent images cause issues.)
 - Ability to upload a new image.
 
-<img src="screenshot-anim.gif">
+
