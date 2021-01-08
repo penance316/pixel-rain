@@ -1,0 +1,21 @@
+/* Basic resets */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: black;
+}
+
+#canvas1 {
+  border: 2px solid white;
+
+  /* Center alignment */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  /* Should be same size as the image */
+  /* width: 640px; */
+  /* height: 633px; */
+}
